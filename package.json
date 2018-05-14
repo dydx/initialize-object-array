@@ -6,7 +6,6 @@
   "repository": "git@github.com:dydx/initialize-object-array.git",
   "author": "Joshua Sandlin <josh.sandlin@turner.com>",
   "license": "MIT",
-  "private": false,
   "devDependencies": {
     "faker": "^4.1.0",
     "tape": "^4.9.0"

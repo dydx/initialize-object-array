@@ -9,5 +9,8 @@
   "private": false,
   "devDependencies": {
     "tape": "^4.9.0"
+  },
+  "scripts": {
+    "test": "tape tests/**/*.js"
   }
 }

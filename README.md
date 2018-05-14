@@ -19,3 +19,10 @@ const posts = initializeObjectArray(5, createPost);
 
 // and now `posts` contains an array of 5 `post` objects
 ```
+
+## Why?
+This really isnt that useful, though I do find it nice for quickly getting a collection for seeding a database.
+
+## Todo
+[ ] I suppose it'd be nice to be able to use `async/await` in there somewhere
+[ ] Having to use a lambda sometimes is annoying
